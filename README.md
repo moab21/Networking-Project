@@ -59,14 +59,13 @@ At the end of the project, I successfully hosted a live webpage using my own dom
 ## Screenshots
 
 ### EC2 Instance Running
-![alt text](image.png)
+![networking](screenshots/ec2-instance.png)
 
 ### DNS Configuration
-![alt text](image-1.png)
+![networking](screenshots/DNS-Record.png)
 
 ### NGINX Page Loading From Custom Domain
-![alt text](image-2.png)
-
+![networking](screenshots/nginx-page.png)
 
 
 ## Key Takeaway
